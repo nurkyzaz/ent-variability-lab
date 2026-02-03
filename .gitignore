@@ -8,8 +8,16 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data outputs
+
+# Ignore everything in outputs by default
 outputs/*
+
+# Allow README
 !outputs/README.md
+
+# Allow figures
+!outputs/figures/
+!outputs/figures/*.png
 
 # OS
 .DS_Store
