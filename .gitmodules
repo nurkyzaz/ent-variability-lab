@@ -1,0 +1,3 @@
+[submodule "data/superman"]
+	path = data/superman
+	url = https://github.com/doccosmos/superman
